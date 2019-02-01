@@ -1,0 +1,1 @@
+use SASS in the volume css of slider and bar (get the sliders height and give it to the container height)

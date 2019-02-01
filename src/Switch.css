@@ -1,0 +1,33 @@
+#switch {
+    width: 20px;
+    background-color: blue;
+    height: 20px;
+}
+
+#frame {
+    width: 50px;
+    height: 20px;
+    background-color: gray;
+    padding: 1px;
+}
+
+#name {
+    display: block;
+    line-height: 0px;
+}
+
+#container {
+    position: relative;
+    left: 50%;
+    transform: translate(-50%, 0);
+    display: inline-block;
+    margin: 10px 0px;
+}
+
+.on {
+    float: left;
+}
+
+.off {
+    float: right;
+}

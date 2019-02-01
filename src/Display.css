@@ -1,0 +1,25 @@
+
+#display {
+    width: 200px;
+    height: 50px;
+    background-color: ligthgray;
+    margin: 10px 0px;
+    position: relative;
+    left: 50%;
+    transform: translate(-50%, 0);
+    text-align: center;
+    line-height: 50px; /*use Sass for this one also*/
+}
+
+.display-animation {
+    animation-name: text-fadeout;
+    animation-duration: 1s;
+    animation-delay: 1s;
+    animation-iteration-count: 1;
+    animation-fill-mode: forwards;
+}
+
+@keyframes text-fadeout {
+    from { color: black }
+    to { color: lightgray; } /*use Sass for this one, set color to the divs color*/
+}

@@ -1,0 +1,1041 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="1st_String_E.aiff" source="original">
+    <title>1st_String_E</title>
+    <format>AIFF</format>
+    <md5>9c3a3e4bde6680a9ba8a0ddaa8b8dbad</md5>
+    <mtime>1235416628</mtime>
+    <size>479232</size>
+    <crc32>cba1e5dd</crc32>
+    <sha1>829aa4b6459ba755c7074998d145062a344235e3</sha1>
+    <length>5.38</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="1st_String_E.mp3" source="derivative">
+    <title>1st_String_E</title>
+    <bitrate>105</bitrate>
+    <length>00:05</length>
+    <format>VBR MP3</format>
+    <original>1st_String_E.aiff</original>
+    <mtime>1416793339</mtime>
+    <size>72192</size>
+    <md5>4f5a0777203bdfb105fef433f0a6d4e7</md5>
+    <crc32>7657ed82</crc32>
+    <sha1>789d48caeb942d3ab80020c326f5a8bcb7d5f991</sha1>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="1st_String_E.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>1st_String_E.aiff</original>
+    <md5>ec03b385ad3e40142905eda922cd70b5</md5>
+    <mtime>1235416734</mtime>
+    <size>49096</size>
+    <crc32>8585fc96</crc32>
+    <sha1>9a3bb8a06efa56a5bb61cda335b019f883a92763</sha1>
+    <length>5.4</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="1st_String_E.png" source="derivative">
+    <format>PNG</format>
+    <original>1st_String_E.mp3</original>
+    <mtime>1416793406</mtime>
+    <size>3385</size>
+    <md5>78e94a9028280501ae56eaec599db712</md5>
+    <crc32>4ea4bf04</crc32>
+    <sha1>25f83bf7257f6cacf3d4ddd7becb48d6b6df9b08</sha1>
+  </file>
+  <file name="1st_String_E_64kb.mp3" source="derivative">
+    <title>1st_String_E</title>
+    <bitrate>64</bitrate>
+    <length>00:05</length>
+    <format>64Kbps MP3</format>
+    <original>1st_String_E.aiff</original>
+    <md5>bfdb7ebdb3adf89a600e5a963a796993</md5>
+    <mtime>1235416721</mtime>
+    <size>43803</size>
+    <crc32>ee30b60f</crc32>
+    <sha1>2aeae69cf761a73d150e2fae70b4c1a2fbc39c61</sha1>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="1st_String_E_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>1st_String_E.aiff</original>
+    <mtime>1416793387</mtime>
+    <size>310920</size>
+    <md5>10aefe2f025fef4c812c8cfde5b67c09</md5>
+    <crc32>bb309169</crc32>
+    <sha1>5e3d40bb2733b5dcf25ed29daebd63c2aa72fbdb</sha1>
+  </file>
+  <file name="1st_String_E_vbr.mp3" source="derivative">
+    <title>1st_String_E</title>
+    <bitrate>97</bitrate>
+    <length>00:05</length>
+    <format>VBR MP3</format>
+    <original>1st_String_E.aiff</original>
+    <md5>663f315c5b98396f5912e75da68797a5</md5>
+    <mtime>1235416718</mtime>
+    <size>66036</size>
+    <crc32>11add897</crc32>
+    <sha1>84e129b87f30b4442ba0341631ade0a4061b3b18</sha1>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="1st_String_E_vbr.png" source="derivative">
+    <format>PNG</format>
+    <original>1st_String_E_vbr.mp3</original>
+    <mtime>1416793358</mtime>
+    <size>3619</size>
+    <md5>abce1d50e25a4f78ebe316d160ab3583</md5>
+    <crc32>0e9cddfe</crc32>
+    <sha1>6713ca56d77d6e2e886589fc33b886955b816a64</sha1>
+  </file>
+  <file name="2nd_String_B_.aiff" source="original">
+    <title>2nd_String_B_</title>
+    <format>AIFF</format>
+    <md5>8bc8fb3cd98b824796a6f0d623244b25</md5>
+    <mtime>1235416635</mtime>
+    <size>462848</size>
+    <crc32>ccdd755</crc32>
+    <sha1>b817c81aa20a6079b4128e640cf3b3d3ce35bcc3</sha1>
+    <length>5.2</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="2nd_String_B_.mp3" source="derivative">
+    <title>2nd_String_B_</title>
+    <bitrate>103</bitrate>
+    <length>00:05</length>
+    <format>VBR MP3</format>
+    <original>2nd_String_B_.aiff</original>
+    <mtime>1416793347</mtime>
+    <size>68608</size>
+    <md5>12379d2d5eef3b20f0b8c906d5eb0be2</md5>
+    <crc32>07d02c9c</crc32>
+    <sha1>747d1ee3eb477bccaa039f4a80d93718ef9a1e3c</sha1>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="2nd_String_B_.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>2nd_String_B_.aiff</original>
+    <md5>0d0058c471d2eec9bfcaeb0e89e5a591</md5>
+    <mtime>1235416735</mtime>
+    <size>47654</size>
+    <crc32>245f5da5</crc32>
+    <sha1>9cd2d900cebda8fa1112af4293887d901f1c1554</sha1>
+    <length>5.22</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="2nd_String_B_.png" source="derivative">
+    <format>PNG</format>
+    <original>2nd_String_B_.mp3</original>
+    <mtime>1416793400</mtime>
+    <size>3764</size>
+    <md5>89b63664ce2dcadea338b4d3697fefa0</md5>
+    <crc32>27d40bb4</crc32>
+    <sha1>8ab2b7739439261b1df688035f68e318ad1e0d70</sha1>
+  </file>
+  <file name="2nd_String_B__64kb.mp3" source="derivative">
+    <title>2nd_String_B_</title>
+    <bitrate>64</bitrate>
+    <length>00:05</length>
+    <format>64Kbps MP3</format>
+    <original>2nd_String_B_.aiff</original>
+    <md5>15797aec9909f539cc58c1dac0fe8d47</md5>
+    <mtime>1235416717</mtime>
+    <size>42340</size>
+    <crc32>f145b5a</crc32>
+    <sha1>85f3d296efe8018ba7579cce5094cbb25216e30a</sha1>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="2nd_String_B__spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>2nd_String_B_.aiff</original>
+    <mtime>1416793389</mtime>
+    <size>309740</size>
+    <md5>fb5f46658067ecc24f17cddc6e00da29</md5>
+    <crc32>6dd27fae</crc32>
+    <sha1>14c1f6097ee176dfdb212b98bbc7d3133a6304f3</sha1>
+  </file>
+  <file name="2nd_String_B__vbr.mp3" source="derivative">
+    <title>2nd_String_B_</title>
+    <bitrate>97</bitrate>
+    <length>00:05</length>
+    <format>VBR MP3</format>
+    <original>2nd_String_B_.aiff</original>
+    <md5>9ad9832b667e20929b6afaa0155137dc</md5>
+    <mtime>1235416717</mtime>
+    <size>63924</size>
+    <crc32>21ce856e</crc32>
+    <sha1>5cd05d0e43b06e491378b2c5865fae65de2771f1</sha1>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="2nd_String_B__vbr.png" source="derivative">
+    <format>PNG</format>
+    <original>2nd_String_B__vbr.mp3</original>
+    <mtime>1416793364</mtime>
+    <size>3707</size>
+    <md5>056d1d5c23acf01f958dd307ad93dfb1</md5>
+    <crc32>29939c95</crc32>
+    <sha1>2eb89db5bb619e969cbe995b1f2004f063537733</sha1>
+  </file>
+  <file name="3rd_String_G.aiff" source="original">
+    <title>3rd_String_G</title>
+    <format>AIFF</format>
+    <md5>e0a161e5e361cce0e5db4d0222a6162a</md5>
+    <mtime>1235416643</mtime>
+    <size>479232</size>
+    <crc32>72c7bb8d</crc32>
+    <sha1>7a07b07dcc295677b2c08d5e9ca6d6e7215749b3</sha1>
+    <length>5.38</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="3rd_String_G.mp3" source="derivative">
+    <title>3rd_String_G</title>
+    <bitrate>105</bitrate>
+    <length>00:05</length>
+    <format>VBR MP3</format>
+    <original>3rd_String_G.aiff</original>
+    <mtime>1416793343</mtime>
+    <size>72192</size>
+    <md5>9035fec8e2cacdc5d92a1b20c0f74e53</md5>
+    <crc32>c7233c1b</crc32>
+    <sha1>018c5239469eacc4ef7ca54d2af587bf1aeed640</sha1>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="3rd_String_G.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>3rd_String_G.aiff</original>
+    <md5>fd41725f009c13589ea524cd58c205de</md5>
+    <mtime>1235416734</mtime>
+    <size>49360</size>
+    <crc32>56e160eb</crc32>
+    <sha1>523c1377f2dd65c018190faa06f7691427218910</sha1>
+    <length>5.4</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="3rd_String_G.png" source="derivative">
+    <format>PNG</format>
+    <original>3rd_String_G.mp3</original>
+    <mtime>1416793402</mtime>
+    <size>3462</size>
+    <md5>6998973c3487eb1498bfbfe46e73f1f2</md5>
+    <crc32>26e0c019</crc32>
+    <sha1>725b391f2ae6d0f5914a4eb9a39e0a7d94d488ba</sha1>
+  </file>
+  <file name="3rd_String_G_64kb.mp3" source="derivative">
+    <title>3rd_String_G</title>
+    <bitrate>64</bitrate>
+    <length>00:05</length>
+    <format>64Kbps MP3</format>
+    <original>3rd_String_G.aiff</original>
+    <md5>f8ea7c43fc8109f6a7e22aaf6b2cb08b</md5>
+    <mtime>1235416718</mtime>
+    <size>43803</size>
+    <crc32>a2a7f6f3</crc32>
+    <sha1>467e500ab4c7055a23b77fd61951ef704889eaa1</sha1>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="3rd_String_G_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>3rd_String_G.aiff</original>
+    <mtime>1416793386</mtime>
+    <size>308544</size>
+    <md5>7b9b0c586f4c5c02b17c64c003f34f5c</md5>
+    <crc32>e3a97b1e</crc32>
+    <sha1>9004496d5e85ca79aec5560008c048bcf43fc481</sha1>
+  </file>
+  <file name="3rd_String_G_vbr.mp3" source="derivative">
+    <title>3rd_String_G</title>
+    <bitrate>96</bitrate>
+    <length>00:05</length>
+    <format>VBR MP3</format>
+    <original>3rd_String_G.aiff</original>
+    <md5>756a7490f7add4c51c4d7ec94d5ca0f3</md5>
+    <mtime>1235416719</mtime>
+    <size>65545</size>
+    <crc32>bd27bc17</crc32>
+    <sha1>a272b9b168b64ac6d0e71501978d7e00b477b517</sha1>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="3rd_String_G_vbr.png" source="derivative">
+    <format>PNG</format>
+    <original>3rd_String_G_vbr.mp3</original>
+    <mtime>1416793357</mtime>
+    <size>3111</size>
+    <md5>7ad12ebcf91da1e8c16bd128682c416d</md5>
+    <crc32>72497d7c</crc32>
+    <sha1>9fa5c226e6902a00687ad0427a02588e2cc69056</sha1>
+  </file>
+  <file name="4th_String_D.aiff" source="original">
+    <title>4th_String_D</title>
+    <format>AIFF</format>
+    <md5>a3d51944cd9e2c40860b372a233d296a</md5>
+    <mtime>1235416653</mtime>
+    <size>487424</size>
+    <crc32>f495454b</crc32>
+    <sha1>82ff37bc0bdf4eee9adfc45163c8962f5d910de7</sha1>
+    <length>5.47</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="4th_String_D.mp3" source="derivative">
+    <title>4th_String_D</title>
+    <bitrate>104</bitrate>
+    <length>00:05</length>
+    <format>VBR MP3</format>
+    <original>4th_String_D.aiff</original>
+    <mtime>1416793341</mtime>
+    <size>72192</size>
+    <md5>f87049beb242848a23eb235820347039</md5>
+    <crc32>f51be9d2</crc32>
+    <sha1>0d8e45fa994c6af065550458ceab40aac96243d3</sha1>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="4th_String_D.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>4th_String_D.aiff</original>
+    <md5>9fca88fda3d6967445afe0abcfbc7907</md5>
+    <mtime>1235416733</mtime>
+    <size>49265</size>
+    <crc32>7ccc88d4</crc32>
+    <sha1>56526674143b7938b50146a62b4a47888b28914e</sha1>
+    <length>5.51</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="4th_String_D.png" source="derivative">
+    <format>PNG</format>
+    <original>4th_String_D.mp3</original>
+    <mtime>1416793404</mtime>
+    <size>4499</size>
+    <md5>6be1310d428ecd38fc85b9370aa0891b</md5>
+    <crc32>5b74508f</crc32>
+    <sha1>9eb7518e492aa375ad307bda688efede60fd722c</sha1>
+  </file>
+  <file name="4th_String_D_64kb.mp3" source="derivative">
+    <title>4th_String_D</title>
+    <bitrate>64</bitrate>
+    <length>00:05</length>
+    <format>64Kbps MP3</format>
+    <original>4th_String_D.aiff</original>
+    <md5>8a3e6f196219656cbc240ca75b4a0a39</md5>
+    <mtime>1235416721</mtime>
+    <size>44430</size>
+    <crc32>9c35738a</crc32>
+    <sha1>a17e2a5167f2f98970868f1fa516037cd332f68d</sha1>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="4th_String_D_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>4th_String_D.aiff</original>
+    <mtime>1416793392</mtime>
+    <size>307921</size>
+    <md5>2fcc86934df612aa9c0d24c276d06309</md5>
+    <crc32>681a2d37</crc32>
+    <sha1>cb469feeb6400eea13982f4661c944710b38955a</sha1>
+  </file>
+  <file name="4th_String_D_vbr.mp3" source="derivative">
+    <title>4th_String_D</title>
+    <bitrate>93</bitrate>
+    <length>00:05</length>
+    <format>VBR MP3</format>
+    <original>4th_String_D.aiff</original>
+    <md5>3970a18a49f357da8ce89aa192f48c2d</md5>
+    <mtime>1235416720</mtime>
+    <size>64925</size>
+    <crc32>af75320</crc32>
+    <sha1>01feb518afc95d21aff9d5bdcf5952427193cb55</sha1>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="4th_String_D_vbr.png" source="derivative">
+    <format>PNG</format>
+    <original>4th_String_D_vbr.mp3</original>
+    <mtime>1416793351</mtime>
+    <size>4529</size>
+    <md5>93a3ec22e5540a2d91a18b6ea69e10fa</md5>
+    <crc32>87e80e6f</crc32>
+    <sha1>6ff8e69b14b8a9f77583e0a35fac9416598515c5</sha1>
+  </file>
+  <file name="5th_String_A.aiff" source="original">
+    <title>5th_String_A</title>
+    <format>AIFF</format>
+    <md5>09c8c3a4d50e0973d8a601f4617017b2</md5>
+    <mtime>1235416661</mtime>
+    <size>503808</size>
+    <crc32>e6c87771</crc32>
+    <sha1>349d0c5d7d5fb8e4004f91bd29704691fc75f637</sha1>
+    <length>5.66</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="5th_String_A.mp3" source="derivative">
+    <title>5th_String_A</title>
+    <bitrate>105</bitrate>
+    <length>00:05</length>
+    <format>VBR MP3</format>
+    <original>5th_String_A.aiff</original>
+    <mtime>1416793338</mtime>
+    <size>75264</size>
+    <md5>e191ee2c5b4015fce6b0d227302ff478</md5>
+    <crc32>bf7ec979</crc32>
+    <sha1>96de847f7fb3ea721864e231972b1f8d89be0500</sha1>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="5th_String_A.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>5th_String_A.aiff</original>
+    <md5>1be01f226504ce12c1a443bc87431118</md5>
+    <mtime>1235416728</mtime>
+    <size>49290</size>
+    <crc32>17fe710e</crc32>
+    <sha1>2d6bf206e2e852f986706f0af4d0807eaffa0f7e</sha1>
+    <length>5.69</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="5th_String_A.png" source="derivative">
+    <format>PNG</format>
+    <original>5th_String_A.mp3</original>
+    <mtime>1416793408</mtime>
+    <size>3723</size>
+    <md5>f46beef5f4c0784483c7b732fc687e15</md5>
+    <crc32>8a9dcd34</crc32>
+    <sha1>6b9b079476d8ce607191dd3351d1de7c020a84fc</sha1>
+  </file>
+  <file name="5th_String_A_64kb.mp3" source="derivative">
+    <title>5th_String_A</title>
+    <bitrate>64</bitrate>
+    <length>00:05</length>
+    <format>64Kbps MP3</format>
+    <original>5th_String_A.aiff</original>
+    <md5>6295b3dad9a7311efe79ec5d14196cd4</md5>
+    <mtime>1235416720</mtime>
+    <size>45893</size>
+    <crc32>b0f3060b</crc32>
+    <sha1>976c54b67d788379c245edfba7b143b7435f3f4f</sha1>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="5th_String_A_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>5th_String_A.aiff</original>
+    <mtime>1416793390</mtime>
+    <size>310246</size>
+    <md5>e0b53b42cbf3a8f7ccd36232c74afdd7</md5>
+    <crc32>2f2f1bc6</crc32>
+    <sha1>0db513cdc48ff768fe59bfa387295824d6959fcb</sha1>
+  </file>
+  <file name="5th_String_A_vbr.mp3" source="derivative">
+    <title>5th_String_A</title>
+    <bitrate>96</bitrate>
+    <length>00:05</length>
+    <format>VBR MP3</format>
+    <original>5th_String_A.aiff</original>
+    <md5>e64b614c03d239adf571d1453741106e</md5>
+    <mtime>1235416716</mtime>
+    <size>69197</size>
+    <crc32>4648c692</crc32>
+    <sha1>f5942e6d53942e9870259d6d5a15242205b8ec60</sha1>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="5th_String_A_vbr.png" source="derivative">
+    <format>PNG</format>
+    <original>5th_String_A_vbr.mp3</original>
+    <mtime>1416793362</mtime>
+    <size>3734</size>
+    <md5>1dbc67f8620a33c07b06ee7c39693f11</md5>
+    <crc32>60972dd7</crc32>
+    <sha1>67c6e0045508406236c9a0a2a1764305b6befaf5</sha1>
+  </file>
+  <file name="6th_String_E.aiff" source="original">
+    <title>6th_String_E</title>
+    <format>AIFF</format>
+    <md5>0ab3597a50431d5e2c0ef324e02fd886</md5>
+    <mtime>1235416669</mtime>
+    <size>495616</size>
+    <crc32>a5277c46</crc32>
+    <sha1>7e7717a10ada70420deb3b8172b9949e86bb674d</sha1>
+    <length>5.57</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="6th_String_E.mp3" source="derivative">
+    <title>6th_String_E</title>
+    <bitrate>106</bitrate>
+    <length>00:05</length>
+    <format>VBR MP3</format>
+    <original>6th_String_E.aiff</original>
+    <mtime>1416793330</mtime>
+    <size>74752</size>
+    <md5>e063f8a286365bc782d1ca4655503a70</md5>
+    <crc32>2b3a566a</crc32>
+    <sha1>f82c69a7fa0ce867f048e937e41368820b59aa9d</sha1>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="6th_String_E.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>6th_String_E.aiff</original>
+    <md5>95106236dc1e62f45dd20bd369be3a2e</md5>
+    <mtime>1235416727</mtime>
+    <size>48340</size>
+    <crc32>96c89971</crc32>
+    <sha1>5edca097d416cba178521f58afdfc67f1fd9622c</sha1>
+    <length>5.59</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="6th_String_E.png" source="derivative">
+    <format>PNG</format>
+    <original>6th_String_E.mp3</original>
+    <mtime>1416793410</mtime>
+    <size>4867</size>
+    <md5>6e9ab3f23132468cf1e0f4d290a69d33</md5>
+    <crc32>9f81a48e</crc32>
+    <sha1>6b8c6f02632881a378c7097f5ecc17c769457c7a</sha1>
+  </file>
+  <file name="6th_String_E_64kb.mp3" source="derivative">
+    <title>6th_String_E</title>
+    <bitrate>64</bitrate>
+    <length>00:05</length>
+    <format>64Kbps MP3</format>
+    <original>6th_String_E.aiff</original>
+    <md5>8c5f1c967e89f289a981f2eaa1ca05b1</md5>
+    <mtime>1235416715</mtime>
+    <size>45266</size>
+    <crc32>ad2b5678</crc32>
+    <sha1>f7c1c87ccc1c3cabcb3f6a995296c7f18ab85703</sha1>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="6th_String_E_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>6th_String_E.aiff</original>
+    <mtime>1416793391</mtime>
+    <size>315361</size>
+    <md5>c7ac611f8eb062c92c6df5c2522dd3a7</md5>
+    <crc32>8865464f</crc32>
+    <sha1>345260de74528e056e3a4b77051681dd51fce794</sha1>
+  </file>
+  <file name="6th_String_E_vbr.mp3" source="derivative">
+    <title>6th_String_E</title>
+    <bitrate>95</bitrate>
+    <length>00:05</length>
+    <format>VBR MP3</format>
+    <original>6th_String_E.aiff</original>
+    <md5>05443c45a4547c3fae9a3deecf910c3c</md5>
+    <mtime>1235416712</mtime>
+    <size>67166</size>
+    <crc32>2637e36f</crc32>
+    <sha1>b44224d18f31baba9af763ea26102610b0ca19e1</sha1>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="6th_String_E_vbr.png" source="derivative">
+    <format>PNG</format>
+    <original>6th_String_E_vbr.mp3</original>
+    <mtime>1416793354</mtime>
+    <size>4683</size>
+    <md5>96923b101ab72dd65bd79b198ffc57bd</md5>
+    <crc32>aab03da6</crc32>
+    <sha1>1d43b6530e4c6c5e3dfb72efc7aee58b42fc070e</sha1>
+  </file>
+  <file name="C.aiff" source="original">
+    <title>C</title>
+    <format>AIFF</format>
+    <md5>c4c40d02dd7034e84550ae84a89629c4</md5>
+    <mtime>1235416674</mtime>
+    <size>331776</size>
+    <crc32>1c11d793</crc32>
+    <sha1>17df524b5d5b9dab9d4f18f8146de2991a3ff901</sha1>
+    <length>3.71</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="C.mp3" source="derivative">
+    <title>C</title>
+    <bitrate>109</bitrate>
+    <length>00:03</length>
+    <format>VBR MP3</format>
+    <original>C.aiff</original>
+    <mtime>1416793334</mtime>
+    <size>52224</size>
+    <md5>d971ad9c05fa064c0968f6e07c0fbb87</md5>
+    <crc32>ba806cf1</crc32>
+    <sha1>83f52448f5d39954406a20278337cc78d662cd39</sha1>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="C.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>C.aiff</original>
+    <md5>4ee221f2236da30fe61ae39457cb2c77</md5>
+    <mtime>1235416728</mtime>
+    <size>34924</size>
+    <crc32>8005b4af</crc32>
+    <sha1>9f0760d37da3bdb0272548b90dba199740e11ed4</sha1>
+    <length>3.73</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="C.png" source="derivative">
+    <format>PNG</format>
+    <original>C.mp3</original>
+    <mtime>1416793417</mtime>
+    <size>6498</size>
+    <md5>17ca117dd3cba880753a3690017482ea</md5>
+    <crc32>1901d888</crc32>
+    <sha1>3873e512695de7e5b80fcadbb064bba0247a40c6</sha1>
+  </file>
+  <file name="C_64kb.mp3" source="derivative">
+    <title>C</title>
+    <bitrate>64</bitrate>
+    <length>00:03</length>
+    <format>64Kbps MP3</format>
+    <original>C.aiff</original>
+    <md5>45a2fafc85e831f3248db02dfc4e1184</md5>
+    <mtime>1235416711</mtime>
+    <size>30429</size>
+    <crc32>98a1c807</crc32>
+    <sha1>8e4c9230f2312132b855c8bc5030d890dc5ec9d5</sha1>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="C_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>C.aiff</original>
+    <mtime>1416793393</mtime>
+    <size>324715</size>
+    <md5>0ca816a8ae67df2a198778916d941c82</md5>
+    <crc32>4bf92382</crc32>
+    <sha1>361b98e2332fd9b81a2c23ea1119fade266ec969</sha1>
+  </file>
+  <file name="C_vbr.mp3" source="derivative">
+    <title>C</title>
+    <bitrate>105</bitrate>
+    <length>00:03</length>
+    <format>VBR MP3</format>
+    <original>C.aiff</original>
+    <md5>bb0f19dcc26737a307b3c564ee63e489</md5>
+    <mtime>1235416711</mtime>
+    <size>49729</size>
+    <crc32>5a0fd219</crc32>
+    <sha1>e9f32d90a8973cb7f543ddfec8a561dc39b5f86c</sha1>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="C_vbr.png" source="derivative">
+    <format>PNG</format>
+    <original>C_vbr.mp3</original>
+    <mtime>1416793353</mtime>
+    <size>6440</size>
+    <md5>9da826c6970001141c08567d408e4c7d</md5>
+    <crc32>5f6f54ef</crc32>
+    <sha1>475c608d0f2475bf540e533d8aa549edf15b9c15</sha1>
+  </file>
+  <file name="D.aiff" source="original">
+    <title>D</title>
+    <format>AIFF</format>
+    <md5>1e22b0441a94ef292f467716019f515e</md5>
+    <mtime>1235416679</mtime>
+    <size>339968</size>
+    <crc32>5aeb50e6</crc32>
+    <sha1>296068cf8c46ad685af437cf4bed6d6b55d745a2</sha1>
+    <length>3.8</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="D.mp3" source="derivative">
+    <title>D</title>
+    <bitrate>111</bitrate>
+    <length>00:03</length>
+    <format>VBR MP3</format>
+    <original>D.aiff</original>
+    <mtime>1416793332</mtime>
+    <size>54272</size>
+    <md5>c039bb9601476699fecc4a462e74a127</md5>
+    <crc32>5a23c7e6</crc32>
+    <sha1>f56dbf3b1b454f08d0e84296af424daea40ebbab</sha1>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="D.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>D.aiff</original>
+    <md5>1ab170c61ce270b5f125abcf7d8ec022</md5>
+    <mtime>1235416733</mtime>
+    <size>36525</size>
+    <crc32>77b5b67b</crc32>
+    <sha1>46a99d4ee9862d03326939b0f320c17c54c29d89</sha1>
+    <length>3.84</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="D.png" source="derivative">
+    <format>PNG</format>
+    <original>D.mp3</original>
+    <mtime>1416793412</mtime>
+    <size>6491</size>
+    <md5>c33d3beaae3485e2ed4ec00722da4964</md5>
+    <crc32>7f3869f6</crc32>
+    <sha1>9014fdf1ae9f50943888c80590f17522670a14c0</sha1>
+  </file>
+  <file name="D_64kb.mp3" source="derivative">
+    <title>D</title>
+    <bitrate>64</bitrate>
+    <length>00:03</length>
+    <format>64Kbps MP3</format>
+    <original>D.aiff</original>
+    <md5>208aed80b2ee513fb1a88634436770cf</md5>
+    <mtime>1235416710</mtime>
+    <size>31056</size>
+    <crc32>f0c0698b</crc32>
+    <sha1>57da2fcac092326b0e031d9e1716fd94b7575685</sha1>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="D_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>D.aiff</original>
+    <mtime>1416793388</mtime>
+    <size>322113</size>
+    <md5>533ea20587483775fb91b7fe9f010d8a</md5>
+    <crc32>c8b0b7a6</crc32>
+    <sha1>d2855fe5598b874672fcdde0e99b0b91a1bad158</sha1>
+  </file>
+  <file name="D_vbr.mp3" source="derivative">
+    <title>D</title>
+    <bitrate>99</bitrate>
+    <length>00:03</length>
+    <format>VBR MP3</format>
+    <original>D.aiff</original>
+    <md5>08318b3fd0325e85bf8ad8ec22297c3d</md5>
+    <mtime>1235416713</mtime>
+    <size>47966</size>
+    <crc32>b496c3c7</crc32>
+    <sha1>90b026f16764f00441febd21f45429f002e617ac</sha1>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="D_vbr.png" source="derivative">
+    <format>PNG</format>
+    <original>D_vbr.mp3</original>
+    <mtime>1416793366</mtime>
+    <size>6679</size>
+    <md5>f45b3ab55c2e44ab48789a036dededd3</md5>
+    <crc32>a9093357</crc32>
+    <sha1>5a6263d380ba84496bb7e4bc08f5f78a81376d48</sha1>
+  </file>
+  <file name="Dm.aiff" source="original">
+    <title>Dm</title>
+    <format>AIFF</format>
+    <md5>e93b44fab2cb733c980398b5890ebdb2</md5>
+    <mtime>1235416690</mtime>
+    <size>380928</size>
+    <crc32>218ff524</crc32>
+    <sha1>2f76173d7447f74e0352a8875bd5be0ddbce4fd4</sha1>
+    <length>4.27</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Dm.mp3" source="derivative">
+    <title>Dm</title>
+    <bitrate>108</bitrate>
+    <length>00:04</length>
+    <format>VBR MP3</format>
+    <original>Dm.aiff</original>
+    <mtime>1416793345</mtime>
+    <size>58880</size>
+    <md5>0f7f80459c1805378a62df80f6836c1e</md5>
+    <crc32>cb3c253b</crc32>
+    <sha1>8938c8539ccccfa6aefba75f11b14ce197226fad</sha1>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Dm.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>Dm.aiff</original>
+    <md5>391140be913b10749a7eaec64ce1db2a</md5>
+    <mtime>1235416729</mtime>
+    <size>40063</size>
+    <crc32>d3dd7879</crc32>
+    <sha1>56d6a6874e609c2c2397827372f6d52795a41a01</sha1>
+    <length>4.31</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Dm.png" source="derivative">
+    <format>PNG</format>
+    <original>Dm.mp3</original>
+    <mtime>1416793413</mtime>
+    <size>6737</size>
+    <md5>7eaa0d0129796aa5830bcf357446b8c7</md5>
+    <crc32>40cc38d0</crc32>
+    <sha1>49e4a605198022559475622bdcec2ff46582d39c</sha1>
+  </file>
+  <file name="Dm_64kb.mp3" source="derivative">
+    <title>Dm</title>
+    <bitrate>64</bitrate>
+    <length>00:04</length>
+    <format>64Kbps MP3</format>
+    <original>Dm.aiff</original>
+    <md5>e45909922b5e6f33994ae427a5d2675d</md5>
+    <mtime>1235416713</mtime>
+    <size>34817</size>
+    <crc32>7cd2af82</crc32>
+    <sha1>bfce7575ab663133574f3be8bf74a83f2b984174</sha1>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Dm_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>Dm.aiff</original>
+    <mtime>1416793387</mtime>
+    <size>320317</size>
+    <md5>734fa396f6fd8bf46f16f7c7ed492f41</md5>
+    <crc32>3c6f2d52</crc32>
+    <sha1>ade5ddf4604d17394b82f3a68547ea38df5fe0da</sha1>
+  </file>
+  <file name="Dm_vbr.mp3" source="derivative">
+    <title>Dm</title>
+    <bitrate>96</bitrate>
+    <length>00:04</length>
+    <format>VBR MP3</format>
+    <original>Dm.aiff</original>
+    <md5>47dad3cd9c41a5bdd1f0e085d8deebd1</md5>
+    <mtime>1235416715</mtime>
+    <size>52270</size>
+    <crc32>786e3260</crc32>
+    <sha1>a5812d50702107f7abaeb309ef049d69350d8547</sha1>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="Dm_vbr.png" source="derivative">
+    <format>PNG</format>
+    <original>Dm_vbr.mp3</original>
+    <mtime>1416793360</mtime>
+    <size>6612</size>
+    <md5>7e99977da460795e3089726874933d6c</md5>
+    <crc32>33c5d173</crc32>
+    <sha1>9cc9d98990ad4e433a618cf466ca4ec75ec6c4c7</sha1>
+  </file>
+  <file name="E.aiff" source="original">
+    <title>E</title>
+    <format>AIFF</format>
+    <md5>329aaae6781b98b739e2d43b7b38cfe2</md5>
+    <mtime>1235416684</mtime>
+    <size>315392</size>
+    <crc32>4bcd32e7</crc32>
+    <sha1>f2c7a3a2e190288fd0113e2ffe0fadb1e5aee7a8</sha1>
+    <length>3.52</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="E.mp3" source="derivative">
+    <title>E</title>
+    <bitrate>111</bitrate>
+    <length>00:03</length>
+    <format>VBR MP3</format>
+    <original>E.aiff</original>
+    <mtime>1416793336</mtime>
+    <size>50688</size>
+    <md5>05f8c47c135fddc99ee296e016318859</md5>
+    <crc32>58c1fe50</crc32>
+    <sha1>bc7afd2a0acc78fbb99f75c6949819583e8515f7</sha1>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="E.ogg" source="derivative">
+    <format>Ogg Vorbis</format>
+    <original>E.aiff</original>
+    <md5>5fb0f4e2250044f44d239ceba3bebbaf</md5>
+    <mtime>1235416729</mtime>
+    <size>33888</size>
+    <crc32>56e638c7</crc32>
+    <sha1>70e81886fdc6b7a37b05ee28b97aea5628e247dd</sha1>
+    <length>3.55</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="E.png" source="derivative">
+    <format>PNG</format>
+    <original>E.mp3</original>
+    <mtime>1416793415</mtime>
+    <size>7124</size>
+    <md5>9fc296ddc4ca6e4e4346ab6f1f85cbad</md5>
+    <crc32>35560879</crc32>
+    <sha1>8d9ad9ba7817610eea36d426a66bd723ef127c93</sha1>
+  </file>
+  <file name="E_64kb.mp3" source="derivative">
+    <title>E</title>
+    <bitrate>64</bitrate>
+    <length>00:03</length>
+    <format>64Kbps MP3</format>
+    <original>E.aiff</original>
+    <md5>129860d12dcb72020b2982882ce7fce7</md5>
+    <mtime>1235416714</mtime>
+    <size>28966</size>
+    <crc32>b750c410</crc32>
+    <sha1>0bcc95334080e92ec65f66f166ad44d82219a6cd</sha1>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="E_spectrogram.png" source="derivative">
+    <format>Spectrogram</format>
+    <original>E.aiff</original>
+    <mtime>1416793392</mtime>
+    <size>325121</size>
+    <md5>57509323fb2d924790c268965f85341e</md5>
+    <crc32>c998648b</crc32>
+    <sha1>6b550ed1b1cd29c2b51ce438e79d03eb817c69b6</sha1>
+  </file>
+  <file name="E_vbr.mp3" source="derivative">
+    <title>E</title>
+    <bitrate>104</bitrate>
+    <length>00:03</length>
+    <format>VBR MP3</format>
+    <original>E.aiff</original>
+    <md5>0747172486e8b21642a64f0317c47ca0</md5>
+    <mtime>1235416714</mtime>
+    <size>46654</size>
+    <crc32>b0bbeb43</crc32>
+    <sha1>9fe902d87124427287140a4a131ab0025b281b61</sha1>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="E_vbr.png" source="derivative">
+    <format>PNG</format>
+    <original>E_vbr.mp3</original>
+    <mtime>1416793385</mtime>
+    <size>6886</size>
+    <md5>36171e283ec28735122535b545f0afcd</md5>
+    <crc32>06dbed7a</crc32>
+    <sha1>d740392f35106360acbaa5893a56086c1cdfd90d</sha1>
+  </file>
+  <file name="GuitarChord-A_64kb.m3u" source="derivative">
+    <format>64Kbps M3U</format>
+    <original>1st_String_E_64kb.mp3</original>
+    <original>2nd_String_B__64kb.mp3</original>
+    <original>3rd_String_G_64kb.mp3</original>
+    <original>4th_String_D_64kb.mp3</original>
+    <original>5th_String_A_64kb.mp3</original>
+    <original>6th_String_E_64kb.mp3</original>
+    <original>C_64kb.mp3</original>
+    <original>D_64kb.mp3</original>
+    <original>Dm_64kb.mp3</original>
+    <original>E_64kb.mp3</original>
+    <md5>ef43c1fca375c206389539372efe42d2</md5>
+    <mtime>1235416735</mtime>
+    <size>638</size>
+    <crc32>2bd8200a</crc32>
+    <sha1>88b3d35d599da1db2ec789f9e991bfeae2922569</sha1>
+  </file>
+  <file name="GuitarChord-A_64kb_mp3.zip" source="derivative">
+    <format>64Kbps MP3 ZIP</format>
+    <original>1st_String_E_64kb.mp3</original>
+    <original>2nd_String_B__64kb.mp3</original>
+    <original>3rd_String_G_64kb.mp3</original>
+    <original>4th_String_D_64kb.mp3</original>
+    <original>5th_String_A_64kb.mp3</original>
+    <original>6th_String_E_64kb.mp3</original>
+    <original>C_64kb.mp3</original>
+    <original>D_64kb.mp3</original>
+    <original>Dm_64kb.mp3</original>
+    <original>E_64kb.mp3</original>
+    <md5>7f61ebde1f35d14aca75f9277d3c2b88</md5>
+    <mtime>1235416735</mtime>
+    <size>392261</size>
+    <crc32>74e907d8</crc32>
+    <sha1>e7468b51214d9b9e9cf17f8aa4e6714bcfec2e85</sha1>
+    <length>49.03</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="GuitarChord-A_archive.torrent" source="metadata">
+    <btih>8e7297303e9c7a7870cb8de17e1d9cf26ccb84cc</btih>
+    <mtime>1541645427</mtime>
+    <size>15650</size>
+    <md5>a6771a5fe116cdb8bd11fcf7d46f27aa</md5>
+    <crc32>35643d20</crc32>
+    <sha1>707bb999636832f1004d44fdd9ca40957bb3e902</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="GuitarChord-A_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>4396d10463ec571ef792fb1b62e79827</md5>
+  </file>
+  <file name="GuitarChord-A_meta.xml" source="original">
+    <format>Metadata</format>
+    <mtime>1491529115</mtime>
+    <size>536</size>
+    <md5>e2f51d159d5570ec29b286e056cc27f1</md5>
+    <crc32>6fc73263</crc32>
+    <sha1>584edf975ca31400d12447a753a68529cc12d33d</sha1>
+  </file>
+  <file name="GuitarChord-A_vbr.m3u" source="derivative">
+    <format>VBR M3U</format>
+    <original>1st_String_E_vbr.mp3</original>
+    <original>2nd_String_B__vbr.mp3</original>
+    <original>3rd_String_G_vbr.mp3</original>
+    <original>4th_String_D_vbr.mp3</original>
+    <original>5th_String_A_vbr.mp3</original>
+    <original>6th_String_E_vbr.mp3</original>
+    <original>C_vbr.mp3</original>
+    <original>Dm_vbr.mp3</original>
+    <original>D_vbr.mp3</original>
+    <original>E_vbr.mp3</original>
+    <md5>5f89cd5a702d63e22c53504361f52fd3</md5>
+    <mtime>1235416736</mtime>
+    <size>628</size>
+    <crc32>c8ec7cd4</crc32>
+    <sha1>c5a7280d45d8d366698581f098f6d44709e7aa14</sha1>
+  </file>
+  <file name="GuitarChord-A_vbr_mp3.zip" source="derivative">
+    <format>VBR ZIP</format>
+    <original>1st_String_E_vbr.mp3</original>
+    <original>2nd_String_B__vbr.mp3</original>
+    <original>3rd_String_G_vbr.mp3</original>
+    <original>4th_String_D_vbr.mp3</original>
+    <original>5th_String_A_vbr.mp3</original>
+    <original>6th_String_E_vbr.mp3</original>
+    <original>C_vbr.mp3</original>
+    <original>Dm_vbr.mp3</original>
+    <original>D_vbr.mp3</original>
+    <original>E_vbr.mp3</original>
+    <md5>7d70fe08c79851a30259f33fd9b7d980</md5>
+    <mtime>1235416735</mtime>
+    <size>594850</size>
+    <crc32>adad006d</crc32>
+    <sha1>9f26f08491043feb70be006a68079cd1bc47425b</sha1>
+    <length>42.48</length>
+    <height>0</height>
+    <width>0</width>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1541645426</mtime>
+    <size>1140</size>
+    <md5>9f6c268d852f5fa0203c6fd8e00e77ef</md5>
+    <crc32>c82ad0b4</crc32>
+    <sha1>9f84fe5ce3dbc10e1b6a9afd791b751c543a61f8</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+</files>
